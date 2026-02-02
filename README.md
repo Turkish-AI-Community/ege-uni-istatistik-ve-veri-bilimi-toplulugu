@@ -12,7 +12,6 @@ Her gün için ayrı bir klasör oluşturulmuştur. İlgili günün klasörüne 
 
 - `notebooks/`: Derste kullanılan kodlara ve notebook dosyalarına,
 - `kaynaklar/`: Sunum dosyalarına, veri setlerine ve ek okumalara,
-- `odevler/`: Eğitmen tarafından verilen ödevlere,
 
 erişebilirsiniz.
 
