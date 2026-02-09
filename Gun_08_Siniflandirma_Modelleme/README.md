@@ -8,5 +8,5 @@ Bu bölümde Sınıflandırma Modelleme hakkında işlenen ders notları ve kodl
 
 ## Kaynaklar
 
-- [Notebooks](./notebooks)
+- [Notebooks ve Kodlar](./notebooks)
 - [Sunum ve Kaynaklar](./kaynaklar)

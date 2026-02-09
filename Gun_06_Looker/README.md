@@ -8,5 +8,5 @@ Bu bölümde Looker hakkında işlenen ders notları ve kodlar bulunmaktadır.
 
 ## Kaynaklar
 
-- [Notebooks](./notebooks)
+- [Notebooks ve Kodlar](./notebooks)
 - [Sunum ve Kaynaklar](./kaynaklar)

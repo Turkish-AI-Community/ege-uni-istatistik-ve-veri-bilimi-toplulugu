@@ -8,5 +8,5 @@ Bu bölümde Regresyon Modelleme hakkında işlenen ders notları ve kodlar bulu
 
 ## Kaynaklar
 
-- [Notebooks](./notebooks)
+- [Notebooks ve Kodlar](./notebooks)
 - [Sunum ve Kaynaklar](./kaynaklar)

@@ -8,5 +8,5 @@ Bu bölümde Temel Veri Ön İşleme hakkında işlenen ders notları ve kodlar 
 
 ## Kaynaklar
 
-- [Notebooks](./notebooks)
+- [Notebooks ve Kodlar](./notebooks)
 - [Sunum ve Kaynaklar](./kaynaklar)

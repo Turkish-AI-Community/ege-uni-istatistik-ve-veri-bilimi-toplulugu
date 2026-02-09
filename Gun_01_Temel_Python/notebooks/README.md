@@ -4,19 +4,28 @@ Bu klasör, çeşitli veri analizi, görselleştirme ve web uygulaması yetenekl
 
 ## Gereksinimler
 
-Bu proje bağımlılık yönetimi için `uv` kullanır.
+### Adım 1: uv Kurulumu (Eğer yüklü değilse)
 
-1. **`uv` Kurulumu** (Eğer yüklü değilse):
+Mac/Linux:
 
-    ```bash
-    curl -LsSf https://astral.sh/uv/install.sh | sh
-    ```
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
 
-2. **Bağımlılıkların Yüklenmesi**:
+Windows:
 
-    ```bash
-    uv sync
-    ```
+```powershell
+powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+### Adım 2: Proje Kurulumu
+
+```bash
+uv init data_workshop
+cd data_workshop
+uv python pin 3.11  # Uyumluluk için önemli!
+uv add matplotlib seaborn pandas plotly bokeh folium streamlit gradio taipy grafanalib scikit-learn
+```
 
 ## Scriptler
 

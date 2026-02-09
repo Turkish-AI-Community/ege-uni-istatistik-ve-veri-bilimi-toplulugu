@@ -8,5 +8,5 @@ Bu bölümde İstatistik Temelleri hakkında işlenen ders notları ve kodlar bu
 
 ## Kaynaklar
 
-- [Notebooks](./notebooks)
+- [Notebooks ve Kodlar](./notebooks)
 - [Sunum ve Kaynaklar](./kaynaklar)

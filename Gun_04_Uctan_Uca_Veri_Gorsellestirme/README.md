@@ -8,5 +8,5 @@ Bu bölümde Uçtan Uca Veri Görselleştirme hakkında işlenen ders notları v
 
 ## Kaynaklar
 
-- [Notebooks](./notebooks)
+- [Notebooks ve Kodlar](./notebooks)
 - [Sunum ve Kaynaklar](./kaynaklar)

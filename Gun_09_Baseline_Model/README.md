@@ -8,5 +8,5 @@ Bu bölümde Baseline Model hakkında işlenen ders notları ve kodlar bulunmakt
 
 ## Kaynaklar
 
-- [Notebooks](./notebooks)
+- [Notebooks ve Kodlar](./notebooks)
 - [Sunum ve Kaynaklar](./kaynaklar)

@@ -6,5 +6,5 @@
 Bu bölümde Temel Python Görselleştirme Kütüphaneleri ve Görselleştirme Araçları hakkında işlenen ders notları ve kodlar bulunmaktadır.
 
 ## Kaynaklar
-- [Notebooks](./notebooks)
+- [Notebooks ve Kodlar](./notebooks)
 - [Sunum ve Kaynaklar](./kaynaklar)
