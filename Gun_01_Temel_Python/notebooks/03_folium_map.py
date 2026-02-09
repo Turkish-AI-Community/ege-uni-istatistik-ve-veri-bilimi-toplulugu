@@ -29,7 +29,10 @@ for index, row in subset.iterrows():
     # Popup icerigi: HTML formatinda bilgi
     popup_text = f"""
     <b>Tur:</b> {row["species"]}<br>
-    <b>Sepal Length:</b> {row["sepal_length"]}
+    <b>Sepal Length:</b> {row["sepal_length"]}<br>
+    <b>Sepal Width:</b> {row["sepal_width"]}<br>
+    <b>Petal Length:</b> {row["petal_length"]}<br>
+    <b>Petal Width:</b> {row["petal_width"]}<br>
     """
 
     # Haritaya isaretci (Marker) ekle
