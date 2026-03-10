@@ -3,18 +3,22 @@
 **Eğitmen:** Enes Fehmi Manan  
 **Seviye:** Giriş | **Süre:** 3 saat
 
+## İçerik
+
 Bu bölümde Power BI kullanarak uçtan uca bir satış dashboard'u geliştirilmektedir. Gerçekçi bir e-ticaret veritabanı üzerinden SQL ile veri hazırlama, DAX ile metrik tanımlama ve dashboard tasarımı konuları ele alınır.
 
 ---
 
-## Dosyalar
+## Dosyalar ve Klasörler
 
-| Dosya | Açıklama |
+| Dosya / Klasör | Açıklama |
 |-------|----------|
-| [`notes.md`](./notes.md) | Eğitim notları — dashboard kavramları, SQL, DAX ve Power BI adımları |
-| [`EGE_UNI_EGITIM.pbix`](./EGE_UNI_EGITIM.pbix) | Tamamlanmış Power BI proje dosyası |
-| [`dashboard.jpg`](./dashboard.jpg) | Tamamlanmış dashboard'un ekran görüntüsü |
-| [`data/ecommerce.db`](./data/ecommerce.db) | Örnek e-ticaret SQLite veritabanı (~5.000 müşteri, 7 tablo) |
-| [`data/generate_data.py`](./data/generate_data.py) | Veritabanı generate eden python scripti|
-| [`data/DATABASE_SCHEMA.md`](./data/DATABASE_SCHEMA.md) | Veritabanı şeması ve tablo ilişkileri (ERD dahil) |
+| `notes.md` | Eğitim notları — dashboard kavramları, SQL, DAX ve Power BI adımları. |
+| `EGE_UNI_EGITIM.pbix` | Tamamlanmış Power BI proje (dashboard) dosyası. |
+| `dashboard.jpg` | Tamamlanmış dashboard'un ekran görüntüsü. |
+| `draw.jpg` | Proje iş akışını veya mimarisini gösteren ön çizim dosyası. |
+| `data/ecommerce.db` | Örnek e-ticaret SQLite veritabanı (~5.000 müşteri, 7 tablo). |
+| `data/generate_data.py` | Veritabanı ve veri setini rasgele oluşturan (generate eden) Python betiği. |
+| `data/DATABASE_SCHEMA.md` | Veritabanı şeması ve tablo ilişkilerini (ERD dahil) barındıran doküman. |
 
+Geliştirilen uygulamanın tüm adımlarını takip etmek için öncelikle `notes.md` belgesini inceleyebilir ve `data/` klasörü içindeki şemalardan veri yapısı hakkında bilgi edinebilirsiniz.

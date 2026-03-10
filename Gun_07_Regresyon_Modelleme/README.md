@@ -4,9 +4,12 @@
 
 ## İçerik
 
-Bu bölümde Regresyon Modelleme hakkında işlenen ders notları ve kodlar bulunmaktadır.
+Bu bölümde, denetimli öğrenmenin (supervised learning) en temel dalı olan **Regresyon Modelleme** konuları temelden uygulamaya detaylıca işlenmektedir. Sürekli (continuous) sayısal değerleri tahmin etme mantığı, regresyon algoritmalarının işleyişi ve optimizasyon yaklaşımları üzerinde durulmaktadır.
 
-## Kaynaklar
+## Dosyalar ve Klasörler
 
-- [Notebooks ve Kodlar](./notebooks)
-- [Sunum ve Kaynaklar](./kaynaklar)
+### 📓 Eğitim Dokümanları (`/notebooks`)
+
+- `Verilerle-Yarini-Tahmin-Edin.pptx.pdf`: Regresyon kavramlarının, algoritmaların (Lineer Regresyon, Polynomial Regresyon vb.) ve regresyon başarı metriklerinin anlatıldığı temel eğitim sunum dosyası.
+
+### 📂 Kaynaklar (`/kaynaklar`)
